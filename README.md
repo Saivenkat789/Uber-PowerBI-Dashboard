@@ -14,6 +14,31 @@ The dashboard provides a comprehensive view of **ride volume, booking performanc
 The project demonstrates the use of **Power BI, Power Query, data modeling, DAX, interactive dashboards, and business intelligence techniques** to transform raw ride data into actionable insights.
 
 ---
+## 🖼️ Dashboard Preview
+
+### Home Page
+
+![Uber Dashboard Home](images/dashboard-cover.png)
+
+### Overall Analysis
+
+![Overall Analysis](images/overall-dashboard.png)
+
+### Vehicle Type Analysis
+
+![Vehicle Type Analysis](images/vehicle-type-dashboard.png)
+
+### Revenue Analysis
+
+![Revenue Analysis](images/revenue-dashboard.png)
+
+### Cancellation Analysis
+
+![Cancellation Analysis](images/cancellation-dashboard.png)
+
+### Ratings Analysis
+
+![Ratings Analysis](images/ratings-dashboard.png)
 
 ## 🎯 Project Objectives
 
