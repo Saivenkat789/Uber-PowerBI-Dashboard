@@ -34,7 +34,7 @@ The project demonstrates the use of **Power BI, Power Query, data modeling, DAX,
 
 ### ❌ Cancellation Analysis
 
-[![Cancellation Analysis](images/cancellation-dashboard.png)](https://github.com/Saivenkat789/Uber-PowerBI-Analytics-Dashboard/blob/main/images/cancellation-dashboard.png)
+[![Cancellation Analysis](images/cancellation-dashboard.png)](https://github.com/Saivenkat789/Uber-PowerBI-Dashboard/blob/main/Images/Cancellation.png)
 
 ### ⭐ Ratings Analysis
 
