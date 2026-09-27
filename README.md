@@ -18,27 +18,30 @@ The project demonstrates the use of **Power BI, Power Query, data modeling, DAX,
 
 ### 🏠 Home Page
 
-[![Uber Dashboard Home](images/dashboard-cover.png)](https://github.com/Saivenkat789/Uber-PowerBI-Analytics-Dashboard/blob/main/images/dashboard-cover.png)
+<img width="1433" height="809" alt="Homepage" src="https://github.com/user-attachments/assets/2f2c02da-6833-4c03-81d4-9a7f1ca17dfe" />
 
 ### 📈 Overall Analysis
 
-[![Overall Analysis](images/overall-dashboard.png)](https://github.com/Saivenkat789/Uber-PowerBI-Analytics-Dashboard/blob/main/images/overall-dashboard.png)
+<img width="1419" height="729" alt="overall" src="https://github.com/user-attachments/assets/423de5a8-3390-4e8a-87f9-7722f690aec4" />
 
 ### 🚘 Vehicle Type Analysis
 
-[![Vehicle Type Analysis](images/vehicle-type-dashboard.png)](https://github.com/Saivenkat789/Uber-PowerBI-Analytics-Dashboard/blob/main/images/vehicle-type-dashboard.png)
+<img width="1419" height="729" alt="overall" src="https://github.com/user-attachments/assets/eaf613e8-74ad-4a77-a7fa-daf257ff200b" />
+
+
 
 ### 💰 Revenue Analysis
+<img width="1441" height="793" alt="Revenue" src="https://github.com/user-attachments/assets/84a9f8fc-a348-4c4c-aab1-79f84e460bf3" />
 
-[![Revenue Analysis](images/revenue-dashboard.png)](Images/Cancellation.png)
 
 ### ❌ Cancellation Analysis
 
-[![Cancellation Analysis](images/cancellation-dashboard.png)](https://github.com/Saivenkat789/Uber-PowerBI-Dashboard/blob/main/Images/Cancellation.png)
+<img width="1461" height="794" alt="Cancellation" src="https://github.com/user-attachments/assets/1dc1708b-e580-45a1-ada0-74be602a57c2" />
 
 ### ⭐ Ratings Analysis
 
-[![Ratings Analysis](images/ratings-dashboard.png)](https://github.com/Saivenkat789/Uber-PowerBI-Analytics-Dashboard/blob/main/images/ratings-dashboard.png)
+<img width="1441" height="797" alt="Ratings" src="https://github.com/user-attachments/assets/05123178-8201-4e47-97c4-d4a531036f5f" />
+
 ## 🎯 Project Objectives
 
 The main objectives of this project are to:
@@ -374,65 +377,9 @@ Add screenshots of your Power BI dashboard here.
 ```
 
 > Create an `images` folder inside your GitHub repository and upload the dashboard screenshots there.
+> 
 
----
 
-# 📁 Project Structure
-
-```text
-Uber-PowerBI-Dashboard/
-│
-├── Uber.pbix
-├── README.md
-│
-└── images/
-    ├── home-page.png
-    ├── overall-dashboard.png
-    ├── vehicle-type.png
-    ├── revenue.png
-    ├── cancellation.png
-    └── ratings.png
-```
-
----
-
-# 🚀 How to Use
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/Uber-PowerBI-Dashboard.git
-```
-
-### 2. Open the project
-
-Open:
-
-```text
-Uber.pbix
-```
-
-using **Microsoft Power BI Desktop**.
-
-### 3. Explore the dashboard
-
-Use the navigation buttons and slicers to explore:
-
-* Overall performance
-* Vehicle types
-* Revenue
-* Cancellations
-* Ratings
-
-### 4. Refresh the data
-
-If the source data is included or connected locally, update the data source path and select:
-
-```text
-Home → Refresh
-```
-
----
 
 # 📚 Skills Demonstrated
 
