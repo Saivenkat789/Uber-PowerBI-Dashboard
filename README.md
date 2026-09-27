@@ -30,7 +30,7 @@ The project demonstrates the use of **Power BI, Power Query, data modeling, DAX,
 
 ### 💰 Revenue Analysis
 
-[![Revenue Analysis](images/revenue-dashboard.png)](https://github.com/Saivenkat789/Uber-PowerBI-Analytics-Dashboard/blob/main/images/revenue-dashboard.png)
+[![Revenue Analysis](images/revenue-dashboard.png)](Images/Cancellation.png)
 
 ### ❌ Cancellation Analysis
 
