@@ -16,30 +16,29 @@ The project demonstrates the use of **Power BI, Power Query, data modeling, DAX,
 ---
 ## 🖼️ Dashboard Preview
 
-### Home Page
+### 🏠 Home Page
 
-![Uber Dashboard Home](images/dashboard-cover.png)
+[![Uber Dashboard Home](images/dashboard-cover.png)](https://github.com/Saivenkat789/Uber-PowerBI-Analytics-Dashboard/blob/main/images/dashboard-cover.png)
 
-### Overall Analysis
+### 📈 Overall Analysis
 
-![Overall Analysis](images/overall-dashboard.png)
+[![Overall Analysis](images/overall-dashboard.png)](https://github.com/Saivenkat789/Uber-PowerBI-Analytics-Dashboard/blob/main/images/overall-dashboard.png)
 
-### Vehicle Type Analysis
+### 🚘 Vehicle Type Analysis
 
-![Vehicle Type Analysis](images/vehicle-type-dashboard.png)
+[![Vehicle Type Analysis](images/vehicle-type-dashboard.png)](https://github.com/Saivenkat789/Uber-PowerBI-Analytics-Dashboard/blob/main/images/vehicle-type-dashboard.png)
 
-### Revenue Analysis
+### 💰 Revenue Analysis
 
-![Revenue Analysis](images/revenue-dashboard.png)
+[![Revenue Analysis](images/revenue-dashboard.png)](https://github.com/Saivenkat789/Uber-PowerBI-Analytics-Dashboard/blob/main/images/revenue-dashboard.png)
 
-### Cancellation Analysis
+### ❌ Cancellation Analysis
 
-![Cancellation Analysis](images/cancellation-dashboard.png)
+[![Cancellation Analysis](images/cancellation-dashboard.png)](https://github.com/Saivenkat789/Uber-PowerBI-Analytics-Dashboard/blob/main/images/cancellation-dashboard.png)
 
-### Ratings Analysis
+### ⭐ Ratings Analysis
 
-![Ratings Analysis](images/ratings-dashboard.png)
-
+[![Ratings Analysis](images/ratings-dashboard.png)](https://github.com/Saivenkat789/Uber-PowerBI-Analytics-Dashboard/blob/main/images/ratings-dashboard.png)
 ## 🎯 Project Objectives
 
 The main objectives of this project are to:
